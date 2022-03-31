@@ -6,7 +6,7 @@ SwiftUiを用いて作成致しました。<br>
 
 <br>
 <br>
-# 参考にさせていただいたサイト
+参考にさせていただいたサイト
 <br>
 https://qiita.com/ynakaDream/items/78c0c5ad9d1162de25f1
 <br>
